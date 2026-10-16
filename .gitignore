@@ -1,0 +1,19 @@
+# Python environment (too big, everyone creates their own)
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model (rebuild with: python train_model.py)
+*.pkl
+
+# Downloaded / exported files
+*.csv
+*.pdf
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db

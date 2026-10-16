@@ -1,0 +1,11 @@
+fastapi[standard]
+streamlit>=1.40
+requests
+sqlalchemy
+pyodbc
+joblib
+pandas
+altair
+fpdf2
+scikit-learn==1.9.1
+lightgbm
